@@ -20,19 +20,18 @@ url:                   https://dukenuk.github.io/
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Dukenuk Designs
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Dukenuk Design is a website focused on NFT collections made by the artist Dukenuk.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               `NFT Collections` made by Dukenuk
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Solana, NFT, Collections, Digitalart, Dukenuk, Arbot]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -45,7 +44,7 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <Dukenuk6>
 
 # Add links to the sidebar.
 menu:
