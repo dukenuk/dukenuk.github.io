@@ -20,7 +20,7 @@ Spyderbot is a friendly pet robot. Currently, there is 10 different combinations
 
 ![Full-width image](/assets/img/wireframe_all.jpg?raw=true){:.lead width="800" height="800" loading="lazy"}
 
-[Buy an Arbot NFT from Solanart](https://solanart.io/collections/Arbot){:.heading.flip-title} --- Ready to own a pet robot?
+[Buy an Spyderbot NFT from SkyNFT](https://skyngt.org/collections/Spyderbot){:.heading.flip-title} --- Ready to own a pet robot?
 {:.figcaption}
 
 NFT Availability = 100/1000
